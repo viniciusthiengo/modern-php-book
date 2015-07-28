@@ -1,0 +1,199 @@
+nohup: QUEUE=send-data: No such file or directory
+nohup: QUEUE=send-data: No such file or directory
+nohup: QUEUE=send-data: No such file or directory
+nohup: QUEUE=senddata: No such file or directory
+nohup: QUEUE=senddata: No such file or directory
+nohup: QUEUE=default: No such file or directory
+nohup: INTERVAL=3: No such file or directory
+nohup: QUEUE=default: No such file or directory
+*** Starting worker ViniciusThiengo:3332:*
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 483
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:41:48 2015-07-24] Checking cms26
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:41:48 2015-07-24] Checking default
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:41:48 2015-07-24] Sleeping for 5
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:41:53 2015-07-24] Checking cms26
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:41:53 2015-07-24] Checking default
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:41:53 2015-07-24] Sleeping for 5
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:41:58 2015-07-24] Checking cms26
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:41:58 2015-07-24] Checking default
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:41:58 2015-07-24] Sleeping for 5
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:03 2015-07-24] Checking cms26
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:03 2015-07-24] Checking default
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:03 2015-07-24] Sleeping for 5
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:08 2015-07-24] Checking cms26
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:08 2015-07-24] Found job on cms26
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:08 2015-07-24] got (Job{cms26} | ID: 25cc349305c38c557cb126042ab28f29 | EchoData2 | [{"name":"Thiengo"}])
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 515
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 196
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:08 2015-07-24] Processing cms26 since 2015-07-24 20:42:08
+Thiengo
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:08 2015-07-24] done (Job{cms26} | ID: 25cc349305c38c557cb126042ab28f29 | EchoData2 | [{"name":"Thiengo"}])
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:08 2015-07-24] Checking cms26
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:08 2015-07-24] Checking default
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:08 2015-07-24] Found job on default
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:08 2015-07-24] got (Job{default} | ID: 85534b9d5b152f4e82c0ae3e1083396d | EchoData | [{"name":"Thiengo"}])
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 515
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 196
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:08 2015-07-24] Processing default since 2015-07-24 20:42:08
+Thiengo
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:08 2015-07-24] done (Job{default} | ID: 85534b9d5b152f4e82c0ae3e1083396d | EchoData | [{"name":"Thiengo"}])
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:08 2015-07-24] Checking cms26
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:08 2015-07-24] Checking default
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:08 2015-07-24] Sleeping for 5
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:13 2015-07-24] Checking cms26
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:13 2015-07-24] Checking default
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:13 2015-07-24] Sleeping for 5
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:18 2015-07-24] Checking cms26
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:18 2015-07-24] Checking default
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:18 2015-07-24] Sleeping for 5
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:23 2015-07-24] Checking cms26
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:23 2015-07-24] Checking default
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:23 2015-07-24] Sleeping for 5
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:28 2015-07-24] Checking cms26
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:28 2015-07-24] Checking default
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:28 2015-07-24] Sleeping for 5
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:33 2015-07-24] Checking cms26
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:33 2015-07-24] Checking default
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:33 2015-07-24] Sleeping for 5
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:38 2015-07-24] Checking cms26
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:38 2015-07-24] Checking default
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:38 2015-07-24] Sleeping for 5
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:43 2015-07-24] Checking cms26
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:43 2015-07-24] Checking default
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:43 2015-07-24] Sleeping for 5
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:48 2015-07-24] Checking cms26
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:48 2015-07-24] Checking default
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:48 2015-07-24] Sleeping for 5
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:53 2015-07-24] Checking cms26
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:53 2015-07-24] Checking default
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:53 2015-07-24] Sleeping for 5
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:58 2015-07-24] Checking cms26
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:58 2015-07-24] Checking default
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:42:58 2015-07-24] Sleeping for 5
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:43:03 2015-07-24] Checking cms26
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:43:03 2015-07-24] Checking default
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:43:03 2015-07-24] Sleeping for 5
+
+Warning: strftime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/MAMP/htdocs/modern-php-book/vendor/chrisboulton/php-resque/lib/Resque/Worker.php on line 554
+** [20:43:08 2015-07-24] Sleeping for 5

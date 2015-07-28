@@ -1,0 +1,32 @@
+{
+  "name": "thiengo/scanner",
+  "description": "Scan URLs from a CSV file and report inaccessible URLs",
+  "keywords": ["url", "scanner", "csv", "thiengo"],
+  "homepage": "http://example.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Vinícius Thiengo",
+      "homepage": "http://www.thiengo.com.br",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "email": "thiengocalopsita@gmail.com"
+  },
+  "require": {
+    "php" : ">=5.4.0",
+    "guzzlehttp/guzzle": "~5.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4.3"
+  },
+  "suggest": {
+    "league/csv": "~6.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Thiengo\\Scanner \\": "src/"
+    }
+  }
+}

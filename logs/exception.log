@@ -1,0 +1,8 @@
+[2015-07-10 10:38:57] exception-2015-07-10-10-38-57.WARNING: Foo [] []
+[2015-07-10 10:38:57] exception-2015-07-10-10-38-57.ERROR: Bar [] []
+[2015-07-10 10:42:04] Exception.ERROR: #0 {main} [] []
+[2015-07-10 10:43:32] Exception.ERROR: 0 | PDOException | 31 | /Applications/MAMP/htdocs/modern-php-book/chapter_5/Example_40.php |  | Array [] []
+[2015-07-10 11:02:11] Exception.ERROR: 0 | PDOException | 41 | /Applications/MAMP/htdocs/modern-php-book/chapter_5/Example_40.php |  | Array [] []
+[2015-07-10 11:04:59] Exception.ERROR: 2 | Division by zero | 39 | /Applications/MAMP/htdocs/modern-php-book/chapter_5/Example_40.php |  | Array [] []
+[2015-07-10 11:05:41] Exception.ERROR: 2 | Division by zero | 39 | /Applications/MAMP/htdocs/modern-php-book/chapter_5/Example_40.php |  | 1 [] []
+[2015-07-10 11:05:59] Exception.ERROR: 2 | Division by zero | 39 | /Applications/MAMP/htdocs/modern-php-book/chapter_5/Example_40.php |  |  [] []

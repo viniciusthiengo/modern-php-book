@@ -1,0 +1,11 @@
+{
+  "require": {
+    "willdurand/geocoder": "2.8.2",
+    "league/csv": "7.1.2",
+    "guzzlehttp/guzzle": "6.0.1",
+    "monolog/monolog": "1.14.0",
+    "filp/whoops": "1.1.7",
+    "swiftmailer/swiftmailer": "5.x-dev",
+    "chrisboulton/php-resque": "1.2.0"
+  }
+}
